@@ -1,4 +1,4 @@
-⚠️ WARNING – DO NOT OPEN THIS FILE ⚠️
+WARNING – DO NOT OPEN THIS FILE
 
 This file is not intended to be executed or interacted with by unauthorized users.
 
